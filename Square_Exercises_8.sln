@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_Exercises_8", "Square_Exercises_8\Square_Exercises_8.csproj", "{22A3139C-62BA-4A63-B07B-E1EFAF3A0D85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C821CB9-AB14-4680-BEBA-F6DBC4E4BAC8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A3139C-62BA-4A63-B07B-E1EFAF3A0D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A3139C-62BA-4A63-B07B-E1EFAF3A0D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A3139C-62BA-4A63-B07B-E1EFAF3A0D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A3139C-62BA-4A63-B07B-E1EFAF3A0D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF53C9D-65B1-4419-AC23-0C551D250446}
+	EndGlobalSection
+EndGlobal
